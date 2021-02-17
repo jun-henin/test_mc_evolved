@@ -1,0 +1,9 @@
+Installing server to current directory
+MESSAGE: Data kindly mirrored by CreeperHost at https://creeperhost.net/
+MESSAGE: Considering minecraft server jar
+MESSAGE: Downloading minecraft server version 1.7.10
+  ETag: 3e8912b293b52bd54f879919bd6e4e44
+  MD5:  7ecbb9ec9eba4f1da079d8374154c976
+Downloading minecraft server failed, invalid e-tag checksum.
+Try again, or manually place server jar to skip download.
+There was an error during server installation
